@@ -1,0 +1,213 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .v5_68 {
+    width: 424px;
+    height: 595px;
+    background: linear-gradient(rgba(1,23,101,1), rgba(216, 120, 50, 1), rgba(1,23,101,1));;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 450px;
+    overflow: hidden;
+  }
+  .v13_181 {
+    width: 202px;
+    height: 212px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 14px;
+    left: 111px;
+    overflow: hidden;
+  }
+  .wasted {
+    width: 202px;
+    height: 212px;
+    background: url("images/eye\ tiger.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v30_4 {
+    width: 179px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 239px;
+    left: 130px;
+    font-family: Roboto;
+    font-weight: Condensed Black;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v30_25 {
+    width: 184px;
+    height: 63px;
+    background: url("../images/v30_25.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 424px;
+    left: 120px;
+    overflow: hidden;
+  }
+  .v30_9 {
+    width: 183px;
+    height: 14px;
+    background: url("../images/v30_9.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 49px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v30_10 {
+    width: 183px;
+    height: 4px;
+    background: rgba(12, 12, 12, 0.2);
+    opacity: 1;
+    position: absolute;
+    top: 5px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v30_11 {
+    width: 72px;
+    height: 4px;
+    background: rgb(12, 12, 12);
+    opacity: 1;
+    position: absolute;
+    top: 5px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v30_12 {
+    width: 9px;
+    height: 14px;
+    background: rgb(5, 5, 5);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 68px;
+    border-radius: 50%;
+  }
+  .play {
+    width: 30px;
+    height: 30px;
+    background: url("images/play.png");
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 80px;
+    
+    
+  }
+  .v30_15 {
+    width: 24px;
+    height: 23px;
+    background: url("../images/v30_15.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 24px;
+    left: 184px;
+    transform: rotate(-179deg);
+    overflow: hidden;
+  }
+  .v30_16 {
+    height: 23px;
+    background: url("../images/v30_16.png");
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border: 1px solid rgba(255,255,255,1);
+    transform: rotate(-179deg);
+  }
+  .v30_17 {
+    width: 17px;
+    height: 23px;
+    background: url("../images/v30_17.png");
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 7px;
+    border: 1px solid rgba(255,255,255,1);
+    transform: rotate(-179deg);
+  }
+  .setaesq {
+    width: 31px;
+    height: 30px;
+    background: url("images/setaesq.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 7px;
+    overflow: hidden;
+  }
+  
+  .v30_20 {
+    width: 0px;
+    height: 0px;
+    background: url("../images/v30_20.png");
+    opacity: 0;
+    position: absolute;
+    top: 0px;
+    left: 6px;
+    border: 1px solid rgba(255,255,255,1);
+  }
+  .setadir {
+    width: 31px;
+    height: 30px;
+    background: url("images/setadir.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 425px;
+    left: 268px;
+    overflow: hidden;
+  }
+  .v35_113 {
+    width: 31px;
+    height: 30px;
+    background: url("../images/v35_113.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 425px;
+    left: 268px;
+    overflow: hidden;
+    border: 1px solid rgba(255,255,255,1);
+  }
+  .volta {
+    width: 40px;
+    height: 26px;
+    background: url("images/volta.png");
+    opacity: 1;
+    position: absolute;
+    top: 14px;
+    left: 16px;
+  }

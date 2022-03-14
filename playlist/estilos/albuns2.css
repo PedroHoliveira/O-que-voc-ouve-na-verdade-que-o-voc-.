@@ -1,0 +1,270 @@
+<style>* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .v5_67 {
+    width: 420px;
+    height: 595px;
+    background: linear-gradient(rgba(101,2,97,1), rgba(0,0,0,0.05999999865889549), rgba(101,2,97,1));
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 450px;
+    overflow: hidden;
+  }
+  .name {
+    color: #fff;
+  }
+  .v13_125 {
+    width: 205px;
+    background: url("images/seta.png");
+    opacity: 1;
+    position: absolute;
+    top: 38px;
+    left: 93px;
+    border: 1px solid rgba(0,0,0,1);
+  }
+  .v13_163 {
+    width: 113px;
+    height: 145px;
+    background: rgb(7, 6, 6);
+    opacity: 1;
+    position: absolute;
+    top: 107px;
+    left: 15px;
+    overflow: hidden;
+  }
+  .heaven {
+    width: 113px;
+    height: 145px;
+    background: url("images/heaven.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v13_165 {
+    width: 113px;
+    height: 145px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 106px;
+    left: 156px;
+    overflow: hidden;
+  }
+  .paintb {
+    width: 113px;
+    height: 145px;
+    background: url("images/paintblack.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v13_199 {
+    width: 48px;
+    height: 48px;
+    background: rgba(255,255,255,0.3400000035762787);
+    opacity: 1;
+    position: absolute;
+    top: 53px;
+    left: 188px;
+    overflow: hidden;
+  }
+  .seta {
+    width: 40px;
+    height: 40px;
+    background: url("images/seta.png");
+    opacity: 1;
+    position: absolute;
+    bottom: 2px;
+    right: 3px;
+    border: 1px solid rgba(0,0,0,1);
+    transform: rotate(-179deg);
+  }
+  .v13_167 {
+    width: 113px;
+    height: 145px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 106px;
+    left: 296px;
+    overflow: hidden;
+  }
+  .starway {
+    width: 113px;
+    height: 145px;
+    background: url("images/starway.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow hidden;
+  }
+  .v13_169 {
+    width: 113px;
+    height: 141px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 316px;
+    left: 15px;
+    overflow: hidden;
+  }
+  .hurricane {
+    width: 113px;
+    height: 141px;
+    background: url("images/rockyou.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v13_171 {
+    width: 113px;
+    height: 144px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 315px;
+    left: 160px;
+    overflow: hidden;
+  }
+  .backb {
+    width: 113px;
+    height: 144px;
+    background: url("images/back_black.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v13_173 {
+    width: 113px;
+    height: 144px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 315px;
+    left: 295px;
+    overflow: hidden;
+  }
+  .holyd {
+    width: 113px;
+    height: 144px;
+    background: url("images/holyDiver.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v13_175 {
+    width: 104px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 264px;
+    left: 24px;
+    font-family: Roboto;
+    font-weight: Condensed Black;
+    font-size: 13px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v13_176 {
+    width: 97px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 469px;
+    left: 23px;
+    font-family: Roboto;
+    font-weight: Condensed Black;
+    font-size: 13px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v13_177 {
+    width: 86px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 481px;
+    left: 174px;
+    font-family: Roboto;
+    font-weight: Condensed Black;
+    font-size: 13px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v13_178 {
+    width: 81px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 481px;
+    left: 317px;
+    font-family: Roboto;
+    font-weight: Condensed Black;
+    font-size: 15px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v13_179 {
+    width: 105px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 262px;
+    left: 164px;
+    font-family: Roboto;
+    font-weight: Condensed Black;
+    font-size: 15px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v13_180 {
+    width: 113px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 262px;
+    left: 301px;
+    font-family: Roboto;
+    font-weight: Condensed Black;
+    font-size: 15px;
+    opacity: 1;
+    text-align: left;
+  }
+  .menu {
+    width: 31px;
+    height: 31px;
+    background: url("images/menu.png");
+    opacity: 1;
+    position: absolute;
+    top: 13px;
+    left: 23px;
+    
+  }
+  </style>

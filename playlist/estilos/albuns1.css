@@ -1,0 +1,269 @@
+<style>* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .fundo {
+    width: 420px;
+    height: 595px;
+    background: linear-gradient(rgba(101,2,97,1), rgba(0,0,0,0.05999999865889549),rgba(101,2,97,1));
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 450px;
+    overflow: hidden;
+  }
+  .menu {
+    width: 31px;
+    height: 31px;
+    background: url("images/menu.png");
+    opacity: 1;
+    position: absolute;
+    top: 13px;
+    left: 23px;
+  }
+  .name {
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+  }
+  .v5_74 {
+    width: 113px;
+    height: 145px;
+    background: rgb(0, 0, 0);
+    opacity: 1;
+    position: absolute;
+    top: 67px;
+    left: 20px;
+    overflow: hidden;
+  }
+  .wasted {
+    width: 113px;
+    height: 145px;
+    background: url("images/wasted.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v5_75 {
+    width: 113px;
+    height: 145px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 67px;
+    left: 156px;
+    overflow: hidden;
+  }
+  .aerials {
+    width: 113px;
+    height: 145px;
+    background: url("images/aerials.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v5_78 {
+    width: 113px;
+    height: 145px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 67px;
+    left: 292px;
+    overflow: hidden;
+  }
+  .one {
+    width: 113px;
+    height: 145px;
+    background: url("images/one.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v5_79 {
+    width: 113px;
+    height: 148px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 253px;
+    left: 20px;
+    overflow: hidden;
+  }
+  .tiger {
+    width: 113px;
+    height: 148px;
+    background: url("images/eye\ tiger.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v5_80 {
+    width: 113px;
+    height: 144px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 257px;
+    left: 156px;
+    overflow: hidden;
+  }
+  .minhalma {
+    width: 113px;
+    height: 144px;
+    background: url("images/minha\ alma.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v5_81 {
+    width: 113px;
+    height: 148px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 253px;
+    left: 296px;
+    overflow: hidden;
+  }
+  .dystopia {
+    width: 113px;
+    height: 148px;
+    background: url("images/dystopia.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v13_139 {
+    width: 104px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 221px;
+    left: 20px;
+    font-family: Roboto;
+    font-weight: Condensed Black;
+    font-size: 15px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v13_140 {
+    width: 97px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 417px;
+    left: 23px;
+    font-family: Roboto;
+    font-weight: Condensed Black;
+    font-size: 13px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v13_141 {
+    width: 76px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 417px;
+    left: 174px;
+    font-family: Roboto;
+    font-weight: Condensed Black;
+    font-size: 13px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v13_142 {
+    width: 69px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 415px;
+    left: 318px;
+    font-family: Roboto;
+    font-weight: Condensed Black;
+    font-size: 15px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v13_143 {
+    width: 55px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 221px;
+    left: 185px;
+    font-family: Roboto;
+    font-weight: Condensed Black;
+    font-size: 15px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v13_144 {
+    width: 35px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 218px;
+    left: 335px;
+    font-family: Roboto;
+    font-weight: Condensed Black;
+    font-size: 15px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v13_119 {
+    width: 205px;
+    background: url(".png");
+    opacity: 100;
+    position: absolute;
+    top: 50px;
+    left: 105px;
+    border: 1px solid rgba(0,0,0,1);
+  }
+  .v13_121 {
+    width: 48px;
+    height: 48px;
+    background: rgba(255,255,255,0.3400000035762787);
+    opacity: 1;
+    position: absolute;
+    top: 480px;
+    left: 180px;
+    overflow: hidden;
+  }
+  .v13_122 {
+    width: 40px;
+    height: 40px;
+    background: url("images/seta.png");
+    opacity: 1;
+    position: absolute;
+    bottom: 2px;
+    right: 3px;
+    border: 1px solid rgba(0,0,0,1);
+  }
+  </style>
